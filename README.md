@@ -17,4 +17,11 @@ Our solution addresses these challenges by creating a smart, secure pill-dispens
 3) Bottle and Housing
 4) Electrical Hardware
 
+# Mobile App Interface (Jude Werth)
+
+<img width="300" height="250" alt="Screenshot 2025-12-11 at 3 24 26 PM" src="https://github.com/user-attachments/assets/221a411e-27cf-47e7-b6f1-0a1fead2b533" /> <img width="300" height="250" alt="Screenshot 2025-12-11 at 3 24 49 PM" src="https://github.com/user-attachments/assets/b3100f88-b728-4b30-9511-4358d58d4459" /> <img width="265" height="250" alt="Screenshot 2025-12-11 at 3 25 29 PM" src="https://github.com/user-attachments/assets/11088a53-2be9-432e-8e49-4f7f34288a2f" />
+
+
+
+
 
