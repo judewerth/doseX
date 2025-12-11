@@ -1,3 +1,6 @@
 [submodule "mobile_app"]
 	path = mobile_app
 	url = https://github.com/judewerth/mobile_app_intereface.git
+[submodule "electrical_hardware"]
+	path = electrical_hardware
+	url = https://github.com/youngwyatt/bioDesign-doseX
