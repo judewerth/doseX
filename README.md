@@ -21,6 +21,9 @@ Our solution addresses these challenges by creating a smart, secure pill-dispens
 
 <img width="300" height="250" alt="Screenshot 2025-12-11 at 3 24 26 PM" src="https://github.com/user-attachments/assets/221a411e-27cf-47e7-b6f1-0a1fead2b533" /> <img width="300" height="250" alt="Screenshot 2025-12-11 at 3 24 49 PM" src="https://github.com/user-attachments/assets/b3100f88-b728-4b30-9511-4358d58d4459" /> <img width="265" height="250" alt="Screenshot 2025-12-11 at 3 25 29 PM" src="https://github.com/user-attachments/assets/11088a53-2be9-432e-8e49-4f7f34288a2f" />
 
+# Lid and Locking Mechanism (Daniel Candland)
+
+<img width="230" height="250" alt="Screenshot 2025-12-11 at 3 28 49 PM" src="https://github.com/user-attachments/assets/bfc3b1d8-01b5-478e-a31b-78f9c9ddcc98" /> <img width="260" height="250" alt="Screenshot 2025-12-11 at 3 29 11 PM" src="https://github.com/user-attachments/assets/ae08ed7d-5dc8-4041-8c9c-3a6316671fad" />
 
 
 
