@@ -25,6 +25,13 @@ Our solution addresses these challenges by creating a smart, secure pill-dispens
 
 <img width="230" height="250" alt="Screenshot 2025-12-11 at 3 28 49 PM" src="https://github.com/user-attachments/assets/bfc3b1d8-01b5-478e-a31b-78f9c9ddcc98" /> <img width="260" height="250" alt="Screenshot 2025-12-11 at 3 29 11 PM" src="https://github.com/user-attachments/assets/ae08ed7d-5dc8-4041-8c9c-3a6316671fad" />
 
+# Bottle and Housing (all members)
 
+<img width="750" height="250" alt="Screenshot 2025-12-11 at 3 30 03 PM" src="https://github.com/user-attachments/assets/b8b45f44-026c-40d0-a6af-817b76f4fe97" />
+<img width="750" height="300" alt="Screenshot 2025-12-11 at 3 30 26 PM" src="https://github.com/user-attachments/assets/83b2e0a2-fa38-4232-936c-c6600e40a526" />
+
+# Electrical Hardware (Wyatt Young)
+
+<img width="500" height="250" alt="Screenshot 2025-12-11 at 3 31 26 PM" src="https://github.com/user-attachments/assets/242cd942-7e78-4b11-819d-477bec498094" /> <img width="500" height="250" alt="Screenshot 2025-12-11 at 3 32 01 PM" src="https://github.com/user-attachments/assets/a4a5dc8f-4dcd-4b24-b94d-6505b84ab3cc" />
 
 
